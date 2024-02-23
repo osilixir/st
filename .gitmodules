@@ -1,0 +1,30 @@
+[submodule "st_etl_tools"]
+	path = etl/st_etl_tools
+	url = git@github.com:osilixir/st-etl-tools.git
+[submodule "st_fa_tools"]
+	path = model/st_fa_tools
+	url = git@github.com:osilixir/st-fa-tools.git
+[submodule "st_ta_tools"]
+	path = model/st_ta_tools
+	url = git@github.com:osilixir/st-ta-tools.git
+[submodule "st_pa_tools"]
+	path = model/st_pa_tools
+	url = git@github.com:osilixir/st-pa-tools.git
+[submodule "st_order_tools"]
+	path = order/st_order_tools
+	url = git@github.com:osilixir/st-order-tools.git
+[submodule "etl/st_etl_tools"]
+	path = etl/st_etl_tools
+	url = git@github.com:osilixir/st-etl-tools.git
+[submodule "model/st_fa_tools"]
+	path = model/st_fa_tools
+	url = git@github.com:osilixir/st-fa-tools.git
+[submodule "model/st_pa_tools"]
+	path = model/st_pa_tools
+	url = git@github.com:osilixir/st-pa-tools.git
+[submodule "model/st_ta_tools"]
+	path = model/st_ta_tools
+	url = git@github.com:osilixir/st-ta-tools.git
+[submodule "order/st_order_tools"]
+	path = order/st_order_tools
+	url = git@github.com:osilixir/st-order-tools.git
